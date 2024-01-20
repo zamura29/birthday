@@ -1,0 +1,38 @@
+body {
+    font-family: 'Forum', serif;
+}
+
+section {
+    height: 100vh;
+}
+
+.bg-image-1 {
+    background: url('../img/background-1.jpg') no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+
+.bg-image-2 {
+    background: url('../img/background-1-rotate.jpg') no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+
+.first-section {
+    height: 450px;
+    background: url('../img/1.jpg') no-repeat;
+    background-size: cover;
+}
+
+.modal-content {
+    background: url('../img/2.jpg') no-repeat;
+    background-size: cover;
+}
+
+.m-140 {
+    margin-top: 140px !important;
+}
